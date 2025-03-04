@@ -3,11 +3,6 @@ This repository contains an interactive Sales Report Dashboard that provides det
 
 ![Book1 - Excel 2_24_2025 DASHBOARD 4 post](https://github.com/user-attachments/assets/2fab2cfd-73d7-42ae-84f9-e04a2421b4c3)
 
-
-Here's a sample README file for GitHub based on the insights from the dashboard provided:
-
----
-
 # Sales Report Dashboard (2022)
 
 ## Overview

@@ -1,6 +1,9 @@
 # Sales-Report-Dashboard
 This repository contains an interactive Sales Report Dashboard that provides detailed insights into the 2022 sales data. The dashboard visualizes key performance indicators (KPIs) for revenue, profit, product distribution, payment methods, and order details across different managers and months.
 
+![Book1 - Excel 2_24_2025 DASHBOARD 4 post](https://github.com/user-attachments/assets/2fab2cfd-73d7-42ae-84f9-e04a2421b4c3)
+
+
 Here's a sample README file for GitHub based on the insights from the dashboard provided:
 
 ---
